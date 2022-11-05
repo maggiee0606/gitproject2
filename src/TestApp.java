@@ -1,3 +1,3 @@
-public class TestApp 
+public class TestApp {
   // some comment from remote
 }
